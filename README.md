@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Author
 janesessive
+email: eugene.absessiveabs@gmail.com
 
 ## Available Scripts
 
