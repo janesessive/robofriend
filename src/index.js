@@ -7,7 +7,7 @@ import App from './containers/App';
 import * as serviceWorker from './serviceWorker';
 import { searchRobots } from './reducers';
 import 'tachyons';
-// create store
+
 const store = createStore(searchRobots);
 
 ReactDOM.render(
